@@ -2,6 +2,8 @@
 
 A Package which can give you Random Facts in an easy way!
 
+> **Note:** This is my first every Pypi Package so i made the codes a bit damaged. I will clear those damage in next update or else just help me by doing a pull request! Thanks!
+
 # Links
 - [Discord Support Server](https://discord.com/invite/FrduEZd)
 - [GitHub Profile](https://github.com/Scientific-Guy)
