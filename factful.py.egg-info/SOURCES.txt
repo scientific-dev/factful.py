@@ -1,0 +1,8 @@
+README.md
+setup.cfg
+setup.py
+factful/__init__.py
+factful.py.egg-info/PKG-INFO
+factful.py.egg-info/SOURCES.txt
+factful.py.egg-info/dependency_links.txt
+factful.py.egg-info/top_level.txt
